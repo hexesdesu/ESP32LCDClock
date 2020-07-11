@@ -1,9 +1,6 @@
 # ESP32LCDClock
 LCD1602B(i2c) and M5stack Atom required
 
-# ESP32VFDClock
-PT6302 and M5stack Atom required
-
 # Pin Map
 
 `lcd.begin(25, 21);// initialize the lcd with SDA and SCL pins`
